@@ -9,7 +9,7 @@ class Director:
             self.keep_playing = True
             self.console = Console()
             self.jump = Jumper()
-            self.word  = words()
+            self.word  = words
         
         def star_game(self):
             
