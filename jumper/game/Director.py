@@ -11,7 +11,7 @@ class Director:
             self.jump = Jumper()
             self.word  = words
         
-        def star_game(self):
+        def start_game(self):
             
             while self.keep_playing:
                 self.get_inputs()
