@@ -3,7 +3,7 @@
 
 Jumper is a game in which the player seeks to solve a puzzle by guessing the letters of a secret word one at a time. The player has a limited number of guesses, and if they guess wrong, they lose a life. The game is won by correctly guessing the word before running out of lives.
 
-# Rules
+## Rules
 Jumper is played according to the following rules.
 
 The puzzle is a secret word randomly chosen from a list.
@@ -25,7 +25,7 @@ You can also run the program from an IDE like Visual Studio Code. Start your IDE
 and open the project folder. Select the main module inside the hunter folder and 
 click the "run" icon.
 
-## Project Structure
+### Project Structure
 ---
 The project files and folders are organized as follows:
 ```
@@ -43,4 +43,4 @@ root                    (project root folder)
 
 ## Authors
 ---
-* TODO: Add your names and emails here
+* Enmanuel De los Santos Cruz (del20047@byui.edu) 
