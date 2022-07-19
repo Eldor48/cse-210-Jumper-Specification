@@ -5,7 +5,7 @@ from game.console import Console
 
 
 class Director:
-
+    
 
     def __init__(self):
         self.keep_playing = True
